@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently working on [Unsplash Clone]([https://github.com/vishwajeet-7/Bewakoof.com-clone](https://github.com/Ajay-bhagal/team_6))
+- 🔭 I’m currently working on [Unsplash Clone](https://github.com/Ajay-bhagal/team_6)
 
 - 🌱 I’m currently learning **REACT**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **happysoumya3@gmail.com**
 
-- After B-tech in EE i found very much interest in web-devlopement so then i joined Masai School for Full-Stack Devlopement And I have very much intrest in Photos and videos Editing,Travelling.
+- After B-tech in EE i found very much interest in web-devlopement so then i joined Masai School for Full-Stack Devlopement And also I have very much intrest in Photos and videos Editing,Travelling.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BPWinV-VIs8Sj5niO4hdnj1jwPQN5Vwj/view?usp=share_link]()
 
