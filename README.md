@@ -29,6 +29,7 @@
 ---
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flastic&logo=Redux&logoColor=764ABC)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -52,6 +53,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjanmahunta1&" alt="soumyaranjanmahunta1" /></p>
 
+
+
+---
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soumyaranjanmahunta1)
 
 
 ---
